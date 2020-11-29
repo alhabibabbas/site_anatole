@@ -3,7 +3,6 @@ title = "About Modded"
 description = "Hugo, was modded here." 
 date = "28"
 aliases = ["about-us", "about-hugo", "contact"]
-[comment]: <> (This is a comment, it will not be included)
 author = "Hugo Authors"
 +++
 
